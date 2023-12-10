@@ -3,6 +3,7 @@
  @activity Individual Exercise 2 - Finals
  @classcode 9342 - CS 211 Data Structures
  -----------------------------------------------------------------------------------------------------------------
+ SAMPLE RUN:
  {2374421=(Lord,18), 1175645516=(Kathleen,17)}
  {2140939337=(Gracie,20), 2374421=(Lord,18), 1175645516=(Kathleen,17)}
 

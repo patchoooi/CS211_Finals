@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CS211_Finals.iml" filepath="$PROJECT_DIR$/CS211_Finals.iml" />
       <module fileurl="file://$PROJECT_DIR$/LacanilaoMarvinPatrickFinalExercise2/LacanilaoMarvinPatrickFinalExercise2.iml" filepath="$PROJECT_DIR$/LacanilaoMarvinPatrickFinalExercise2/LacanilaoMarvinPatrickFinalExercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LacanilaoMarvinPatrickIndividualExercise3/LacanilaoMarvinPatrickIndividualExercise3.iml" filepath="$PROJECT_DIR$/LacanilaoMarvinPatrickIndividualExercise3/LacanilaoMarvinPatrickIndividualExercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/LacanilaoMarvinPatrick_IndividualExercise1/LacanilaoMarvinPatrick_IndividualExercise1.iml" filepath="$PROJECT_DIR$/LacanilaoMarvinPatrick_IndividualExercise1/LacanilaoMarvinPatrick_IndividualExercise1.iml" />
     </modules>
   </component>
